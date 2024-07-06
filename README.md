@@ -4,6 +4,6 @@ Sou Pedro Arnor, entusiasta de front-end e criador de conteúdo, e fiz o projeto
 
 Esse projeto exemplifica como a combinação de criatividade humana e ferramentas de IA pode resultar em conteúdo educativo e envolvente. A abordagem que adotei destaca o potencial das tecnologias de IA na criação de conteúdo, oferecendo um modelo para outros criadores explorarem novos formatos e alcançarem novos públicos. Utilizando prompts para gerar roteiros, IA para refinar ideias e produção de voz, transformei minha visão em um projeto de sucesso, mostrando que com dedicação e as ferramentas certas, é possível educar e entreter iniciantes em front-end de maneira inovadora e acessível.
 
-Me siga 🔥📱
+## Me siga 🔥📱
 - Instagram: @pedro.arnor
 - Linkedin: Pedro Arnor
